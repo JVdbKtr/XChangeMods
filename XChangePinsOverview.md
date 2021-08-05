@@ -31,12 +31,8 @@
 | ABL 6 | | Auto Bed Level | | Non-connected pin |
 
 ## Notes
-- Some boards may require the ABL/BLTouch Zmin pin to be wired ‘in reverse’.  
-Please mind the shared ground pins on XChange and apply a voltage to these  
-pins which may result in damage of electrical components  
-- The shared ground pins require great care in case one would want to make the  
-Hot End Fan controllable/switchable. Switching or sending modulated signals  
-through the shared ground pins may result in damage of electrical components  
+- Some boards may require the ABL/BLTouch Zmin pin to be wired ‘in reverse’. Please mind the shared ground pins on XChange and apply a voltage to these pins which may result in damage of electrical components.
+- The shared ground pins require great care in case one would want to make the Hot End Fan controllable/switchable. Switching or sending modulated signals through the shared ground pins may result in damage of electrical components.  
   
 ## Credits
 These diagrams apply to Printermods XChange V1.0  

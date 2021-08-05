@@ -6,6 +6,7 @@
 ![Tool PCB Pins](ToolPCB.png)
 ![Master PCB Schematic](ToolPlateSchematic.png)
 
+# Pin Assignments
 | **Pin** | **Label** | **Purpose** | **Wire** | **Comment** |
 | --- | --- | --- | --- | --- |
 | Stepper 1 | Stepper Motor Connector | | Often Red | |

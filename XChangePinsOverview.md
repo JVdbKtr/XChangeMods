@@ -1,4 +1,10 @@
-![enter image description here](test.jpg)
+# Master PCB
+![Master PCB Pins](MasterPCB.png)
+![Master PCB Schematic](MasterAssemblySchematic.png)
+
+# Tool PCB
+![Tool PCB Pins](ToolPCB.png)
+![Master PCB Schematic](ToolPlateSchematic.png)
 
 | **Pin** | **Label** | **Purpose** | **Wire** | **Comment** |
 | --- | --- | --- | --- | --- |
